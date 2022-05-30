@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Hi everyone 👋 I'm Matheus Veiga!
 
 - Software Specialist at [Stone Payments](https://www.linkedin.com/company/stone-co/).
