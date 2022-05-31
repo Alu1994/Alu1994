@@ -5,11 +5,15 @@
 - 🌱 I’m currently studying C#, software architecture and coding best practices.
 - &nbsp;<img height="16em" src="https://user-images.githubusercontent.com/23152024/171012451-868428bc-ce52-423f-8d67-2c9166e4a533.png"/> Follow my learning process on [Pluralsight](https://app.pluralsight.com/profile/matheus-veiga)
 - ⚡ Fun fact: I'm a kung fu brown belt 🥋
+  
+<div align="center">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=matsennin" />
+</div>
 
 <div align="center">
   <a href="https://github.com/matsennin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matsennin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsennin&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsennin&layout=compact&langs_count=20&theme=dracula" />
 </div>
 
 <div style="display: inline_block"><br>
