@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with C#.
 - 🌱 I’m currently studying C#, software architecture and coding best practices.
 - <img height="16em" src="https://user-images.githubusercontent.com/23152024/171012451-868428bc-ce52-423f-8d67-2c9166e4a533.png"/>&nbsp; Follow my learning process on [Pluralsight](https://app.pluralsight.com/profile/matheus-veiga)
-- <img height="16em" src="https://user-images.githubusercontent.com/23152024/172078175-ee152047-1bef-4fe9-bc4e-d8f90983feef.png"/> Follow my learning process at [codewars](https://www.codewars.com/users/matsennin)
+- <img height="16em" src="https://user-images.githubusercontent.com/23152024/172078175-ee152047-1bef-4fe9-bc4e-d8f90983feef.png"/> Follow my learning process on [codewars](https://www.codewars.com/users/matsennin)
 - ⚡ Fun fact: I'm a kung fu brown belt 🥋
   
 <div align="center">
