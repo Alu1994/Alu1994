@@ -4,17 +4,17 @@
 - 🔭 I’m currently working with C#.
 - 🌱 I’m currently studying Rust.
 - <img height="16em" src="https://user-images.githubusercontent.com/23152024/171012451-868428bc-ce52-423f-8d67-2c9166e4a533.png"/>&nbsp; Follow my learning process on [Pluralsight](https://app.pluralsight.com/profile/matheus-veiga)
-- <img height="16em" src="https://user-images.githubusercontent.com/23152024/172078175-ee152047-1bef-4fe9-bc4e-d8f90983feef.png"/> Follow my learning process on [codewars](https://www.codewars.com/users/matsennin)
+- <img height="16em" src="https://user-images.githubusercontent.com/23152024/172078175-ee152047-1bef-4fe9-bc4e-d8f90983feef.png"/> Follow my learning process on [codewars](https://www.codewars.com/users/alu1994)
 - ⚡ Fun fact: I'm a kung fu brown belt 🥋
   
 <div align="center">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=matsennin" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=alu1994" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/matsennin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matsennin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsennin&layout=compact&langs_count=25&theme=dracula&hide=batchfile" />
+  <a href="https://github.com/alu1994">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alu1994&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alu1994&layout=compact&langs_count=25&theme=dracula&hide=batchfile" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -30,7 +30,7 @@
 
 
 <!--
-**matsennin/matsennin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alu1994/alu1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
